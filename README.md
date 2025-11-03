@@ -53,7 +53,7 @@ I enjoy learning new languages, exploring modern tools, and applying my knowledg
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
     <h3>🧰 Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,docker,postman,cypress,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,docker,postman,cypress,notion,discord,stackoverflow" />
   </div>
 
 </div>
