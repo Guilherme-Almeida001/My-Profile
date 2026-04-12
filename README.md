@@ -33,22 +33,22 @@ I enjoy learning new languages, exploring modern tools, and applying my knowledg
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
     <h3>🖥️ Operating Systems</h3>
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=linux,windows" />
   </div>
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
     <h3>📝 Languages</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,python,javascript,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,cs,javascript" />
   </div>
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
     <h3>⚙️ Frameworks & Libraries</h3>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap" />
   </div>
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
     <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </div>
 
   <div style="flex: 1 1 200px; max-width: 250px; text-align: center; border: 1px solid #ccc; border-radius: 10px; padding: 20px;">
